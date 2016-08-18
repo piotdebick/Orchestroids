@@ -25,5 +25,5 @@ your canon, aim with your mouse, and shoot with left-mouse-click!
 [Orchestroids](http://www.csdept.csi.cuny.edu/~drsturm/CSC523/WebPlayers/Orchestroids/index.html)
 
 ## Credits
->Piotr Debicki: Level design, Layout & UI design, Programming, Testing
->Alfonso Rayo: Audio, Layout & UI design, Programming, Testing
+__Piotr Debicki__: Level design, Layout & UI design, Programming, Testing
+__Alfonso Rayo__: Audio, Layout & UI design, Programming, Testing
