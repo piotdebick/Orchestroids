@@ -26,4 +26,5 @@ your canon, aim with your mouse, and shoot with left-mouse-click!
 
 ## Credits
 __Piotr Debicki__: Level design, Layout & UI design, Programming, Testing
+
 __Alfonso Rayo__: Audio, Layout & UI design, Programming, Testing
