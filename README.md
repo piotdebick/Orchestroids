@@ -31,8 +31,8 @@ __Alfonso Rayo__: Audio, Layout & UI design, Programming, Testing
 
 
 ## Known Issues
-__A few loading issues (server/decompression)
+A few loading issues (server/decompression)
 
-__Deprecation warnings
+Deprecation warnings
 
-__Optimization improvements
+Optimization improvements
